@@ -1,0 +1,36 @@
+body{
+	background-image: url('../images/arkademy.jpeg');
+}
+
+h1{
+	margin: auto;
+	text-align: center;
+	padding: 4px 0;
+	border-bottom: 3px solid #444444;
+	width: 60%;
+}
+
+button{
+	width: 290px;
+	height: 30px;
+	background: blue;
+	color: white;
+	border: 0px solid;
+}
+
+
+
+.kotak{
+	border: 1px solid;
+	width: 90%;
+	max-width: 400px; 
+	background: white;
+	padding: 40px;
+	box-sizing: border-box;
+}
+
+.form-control{
+	width: 100%;
+	padding:10px;
+	border: 1px solid;
+}
